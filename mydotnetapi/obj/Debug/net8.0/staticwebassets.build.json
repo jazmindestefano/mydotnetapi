@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mC9zJpbo4neRV7qiAa/Ypcixwz5+yXqI1ClAu0AXcdk=",
+  "Source": "mydotnetapi",
+  "BasePath": "_content/mydotnetapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

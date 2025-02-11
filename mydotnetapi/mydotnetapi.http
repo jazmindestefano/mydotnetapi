@@ -1,0 +1,6 @@
+@mydotnetapi_HostAddress = http://localhost:5004
+
+GET {{mydotnetapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
