@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mydotnetapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b1c5ca3ed65ce5b23c71463674786172a4314c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("mydotnetapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mydotnetapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

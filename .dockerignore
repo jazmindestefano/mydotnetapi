@@ -1,0 +1,30 @@
+# Ignorar todo el contenido del directorio .git
+.git/
+
+# Ignorar carpetas de build y dependencias
+bin/
+obj/
+node_modules/
+dist/
+out/
+artifacts/
+
+# Ignorar archivos de configuración local
+appsettings.Development.json
+appsettings.Local.json
+
+# Ignorar archivos de logs y temporales
+*.log
+*.tmp
+*.temp
+
+# Ignorar archivos de NuGet
+.nuget/
+packages/
+*.nupkg
+
+# Ignorar archivos de VS Code
+.vscode/
+
+# Ignorar archivos de Docker Compose
+docker-compose.override.yml

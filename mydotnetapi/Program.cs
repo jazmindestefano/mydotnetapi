@@ -37,7 +37,4 @@ app.MapControllers();
 // Health check endpoint
 app.MapHealthChecks("/health");
 
-// Hello World endpoint
-app.MapGet("/hello", () => "Hello World");
-
 app.Run();
